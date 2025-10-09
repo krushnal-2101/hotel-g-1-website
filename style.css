@@ -1,8 +1,25 @@
 .image-1{
-    background-image:  url(https://www.viceroybali.com/wp-content/uploads/2024/03/What-Is-the-Difference-Between-a-Resort-and-a-Hotel-2.png); 
+    background-image: url(photos/pic-1.webp);
     height: 100vh;
 }
 .center{
     position: relative;
     top:35%;
 }
+
+
+
+
+
+
+
+
+
+
+/* hover start */
+
+.hover-1:hover{
+    background-color:#533204 !important;
+}
+
+/* hover end */ 
